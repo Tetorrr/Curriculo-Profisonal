@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+h1,h2,h3{
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+p{
+    font-family:'Gruppo', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 10px;
+    
+}
+
+body{
+    background-color: cornflowerblue;
+    background-image: url(background/Sk.png);
+    background-size: cover;
+}
+.centralizar{
+    display: flex;
+    justify-content:center;
+    border-radius: 50%;
+    img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding-top: 10px;
+    }
+}
+
+ .texto{
+    text-align: center;
+ }
+
+ .alinhamento{
+    margin-left: 100px;
+ }
+
+ .background{
+    background-color: rgba(255, 255, 255, 0.843);
+    border-radius: 1%;
+    width: 900px;
+    height:850px ;
+    margin-left: 400px;
+    
+ }
+
