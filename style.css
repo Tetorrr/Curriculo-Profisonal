@@ -23,10 +23,10 @@ body{
     justify-content:center;
     border-radius: 50%;
     img{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    padding-top: 10px;
+    padding-top: 20px;
     }
 }
 
@@ -36,14 +36,14 @@ body{
 
  .alinhamento{
     margin-left: 100px;
+    font-family: 'gruppo', Courier,;
  }
 
  .background{
     background-color: rgba(255, 255, 255, 0.843);
     border-radius: 1%;
     width: 900px;
-    height:850px ;
+    height: 1500px;
     margin-left: 400px;
     
  }
-
